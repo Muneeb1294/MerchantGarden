@@ -1,0 +1,23 @@
+{
+  "welcome_to_merchant_garden": "Welcome to Merchant Garden",
+  "welcome_to_login": "Welcome to Login",
+  "please_fill_email_password_to_login_your_app_account": "Please fill E-mail & password to login your app account.",
+  "email": "E-mail",
+  "email_hint": "adminmerchantgarden@gmail.com",
+  "password": "Password",
+  "password_hint": "**************",
+  "forgot_password_question": "Forgot password ?",
+  "login": "Login",
+  "forgot_password": "Forgot password",
+  "enter_your_registered_email_to_get_change_password_link": "Enter your registered Email to get change password link.",
+  "enter_email": "Enter email",
+  "save": "Save",
+  "please_enter_your_email_address": "Please enter your email",
+  "invalid_email_address": "Invalid email address",
+  "please_enter_your_password": "Please enter your password",
+  "password_limit": "Password should be greater than 8 characters",
+  "password_should_include_1_number": "Password should include 1 number",
+  "password_should_1_special_character": "Password should include 1 special character",
+  "": "",
+  " ": " "
+}
