@@ -54,7 +54,7 @@
   "all": "All",
   "active": "Active",
   "blocked": "Blocked",
-  "add_new_category": "+ Add New Category",
+  "add_new_category": "Add New Category",
   "search": "Search |",
   "categories_table": "Categories Table",
   "sr_no": "Sr #",
@@ -67,7 +67,7 @@
   "add_category": "Add Category",
   "category_name": "Category Name",
   "upload": "Upload",
-  "add_new_plant": "+ Add New Plant",
+  "add_new_plant": "Add New Plant",
   "plants_table": "Plants Table",
   "picture": "Picture",
   "category": "Category",
@@ -92,7 +92,7 @@
   "vegetative": "Vegetative",
   "blooming": "Blooming",
   "enter_value": "Enter value",
-  "add_new_fertilizer": "+ Add New Fertilizer",
+  "add_new_fertilizer": "Add New Fertilizer",
   "fertilizers_table": "Fertilizers Table",
   "link": "Link",
   "elemental_n": "Elemental N",
@@ -100,6 +100,9 @@
   "elemental_k": "Elemental K",
   "fertilizer_name": "Fertilizer Name",
   "enter_link_here": "Enter link here",
-  "": "",
-  " ": " "
+  "please_enter_name": "Please enter name",
+  "incorrect_name": "Incorrect name",
+  "name_length": "Name should be greater than 2 characters",
+  "enter_here": "Enter here",
+  "add_fertilizer": "Add Fertilizer"
 }
